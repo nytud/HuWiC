@@ -1,0 +1,348 @@
+﻿piszkos : piszkos, koszos
+utca, aszfalt, köröm, edény, város
+piszkos : mocskos, piszkos
+ügy, igazság, háború, fasiszta, világ
+
+
+karcsú : formás, izmos, karcsú
+comb, test, alak
+karcsú : karcsú, tömzsi
+nyak, oszlop
+
+
+szikrázó : csillogó, ragyogó, szikrázó
+szem
+szikrázó : szikrázó, vakító
+fény, nap, napfény, napsütés, napsugár
+
+
+végtelen : végtelen, véges
+halmaz, világegyetem, mennyiség, sorozat, vonal
+végtelen : végtelen, határtalan
+bizalom, szeretet, nyugalom, erő, boldogság
+
+
+napfényes : napfényes, napsütéses
+vasárnap, nap, szombat, hétvége, délután
+napfényes : napfényes, napsütötte
+terület, sziget, oldal, terasz, partszakasz
+
+
+szar : szar, pocsék
+élet, játék, helyzet, történet, film
+szar : vacak, szar
+ember
+
+
+racionális : logikus, racionális
+érvelés, megoldás, elme, magyarázat, gondolat
+racionális : racionális, pragmatikus
+ember, egyén
+
+
+mindennapi : mindennapi, hétköznapi
+módszer, élethelyzet, nyelvhasználat, valóság, figura  
+mindennapi : mindennapi, mindennapos
+gyakorlás, küzdelem, testmozgás, fogyasztás, kihívás
+
+
+meleg : meleg, hideg, hűvös
+érzés, áramlat, szem, reggel, fogadtatás
+meleg : forró, meleg, hideg
+tenyér, tea, étel, leves, folyadék
+
+
+lágy : lágy, finom
+mosoly, zene, árnyalat, szín, illat
+lágy : puha, lágy
+margarin, fém, gumi, keverék, műanyag
+
+
+katonai : katonai, fegyveres
+szerv, beavatkozás, alakulat, konfliktus, bevetés
+katonai : katonai, hadi
+stratégia, tanács, tábor, kötelezettség, segély
+
+
+pszichológiai : szociológiai, pszichológiai
+kutatóintézet, tanulmány, magyarázat, fogalom, elmélet
+pszichológiai : kognitív, pszichológiai, mentális
+képesség, készség, teszt
+pszichológiai : lélektani, pszichológiai
+csapda, hadviselés, segítség, szükséglet, thriller
+
+
+költői : költői, művészi
+forma, film, kép, szemlélet, érzékenység
+költői : írói, költői
+életmű, sors, hivatás, indulás, hírnév
+#költői : filozofikus, költői
+#gondolat, szöveg, mondat, írás, mondanivaló
+
+
+könnyű : könnyű, nehéz
+lovasság, tank, fegyverzet, harckocsi
+könnyű : könnyű, nehéz
+súly, karosszéria, pótkocsi, tárgy, csomag
+könnyű : könnyű, nehéz
+gyerekkor, év, nyár, nap, időszak   
+könnyű : könnyű, nehéz
+győzelem, ellenfél, futam, mérkőzés, meccs
+könnyű : könnyű, egyszerű
+használhatóság, kezelés, használat, mozdulat, felhelyezés
+
+
+keresztény : zsidó, keresztény
+kultúrkör, szellemiség, naptár, társadalom, istentisztelet  
+keresztény : vallásos, keresztény, vallási
+szemlélet, #meggyőződés, kör, szekta, #üzenet
+keresztény : keresztényi, keresztény
+érték, szeretet, gondolat, hit, istenszeretet
+keresztény : protestáns, keresztény, katolikus
+uralkodó, püspök, pap, gyülekezet, fejedelem
+
+
+nyilvánvaló : nyilvánvaló, egyértelmű
+érdek, kapcsolat, kár, következmény, hátrány   
+nyilvánvaló : kétségtelen, nyilvánvaló
+igazságtalanság, igazság
+
+
+kicsinyes : kisszerű, kicsinyes
+vita
+kicsinyes : kicsinyes, önző
+érdek
+
+
+késői : késői, korai
+bronzkor, stádium, kezdés, időszak, #menopauza_helyett
+késői : kései, késői
+leszármazott, szerelem, utód, fagy
+
+
+#kedvező : kedvező, kedvezőtlen
+#széljárás, fogadtatás, tényező, fejlemény, arány 
+#kedvező : előnyös, kedvező
+#megállapodás, lehetőség, ajánlat, megoldás, határozat 
+
+
+középkori : középkori, korabeli
+okirat, lelet, hangszer, legenda, történet
+középkori : középkori, barokk, reneszánsz, gótikus
+jelleg, kápolna, művészet, palota, várkastély
+
+
+közúti : közúti, vasúti
+teherszállítás, árufuvarozás, átkelő, felüljáró, alagút, 
+közúti : közúti, közlekedési
+ellenőrzés, jelzőlámpa, szabály, szabálysértés, kihágás
+
+
+misztikus : misztikus, titokzatos
+élmény, utazás, mód, körülmény, kapcsolat
+misztikus : misztikus, mitikus
+eredet, hős
+
+
+nagyfokú : fokozott, nagyfokú
+szorongás, érzékenység, érdeklődés, nyugtalanság, körültekintés
+nagyfokú : nagymértékű, nagyfokú
+változás, nyitottság, fejlődés, átalakulás, növekedés
+
+
+szomorú : gyászos, szomorú
+időszak, nap, év, világ, következmény
+szomorú : bánatos, szomorú
+szó, lány, ember, arc, pasi
+
+
+vidám : derűs, vidám
+természet, kép, nap, hét, hangulat
+vidám : jókedvű, vidám
+fiú, delfin, lány, leány, kisfiú
+
+
+zavaros : zavaros, homályos
+ügy, víz, részlet, körülmény, kép 
+zavaros : zavaros, zűrzavaros
+élet, éjszaka, korszak, idő, esemény
+
+
+óriási : nagy, óriási, hatalmas
+eső, robaj, medve, szikla, csomagtartó 
+óriási : komoly, óriási
+lemaradás, recesszió, hatalom, balhé, kérés
+
+
+alpári : trágár, alpári
+szöveg, kifejezés
+alpári : minősíthetetlen, alpári
+hangnem, stílus
+
+
+csinos : csinos, formás
+láb
+csinos : csinos, bájos
+arc
+
+
+csúnya : csúf, csúnya
+név
+csúnya : durva, csúnya
+vita, jelenet, veszekedés
+
+
+egykori : egykori, néhai
+miniszterelnök, férj, politikus, elnök, frontember  
+egykori : valamikori, egykori, hajdani
+szerelem
+
+
+egyszerű : könnyű, egyszerű
+kirándulás, mozdulat, kezelhetőség, használat, szakma
+egyszerű : egyszerű, bonyolult
+felépítés, működés, rendszer, szerződés, technológia
+
+
+előnyös : előnyös, kedvező
+következmény, megállapodás, megoldás, határozat, együttműködés
+előnyös : előnytelen, előnyös
+volta, külső
+
+
+erős : erőteljes, erős
+szín, érzelem, személyiség, csökkenés, olvadás
+erős : gyenge, erős
+bajnokság, mezőny, euró, árfolyam 
+
+
+erőteljes : erőteljes, erős
+vonzalom, roham, kép, rúgás, vita
+erőteljes : erőteljes, markáns
+változtatás, vonás, stílus, megjelenés, javulás
+
+
+elhagyatott : elhagyatott, romos
+ház, épület, lakóház, sarokház, iskolaépület
+elhagyatott : kietlen, elhagyatott
+hely, helyszín 
+
+
+fagyos : fagyos, zord
+világ
+fagyos : fagyos, hideg, hűvös
+szél, reggel, levegő, hajnal, légtömeg
+
+
+fehér : fehér, szürke, fekete
+gazdaság
+fehér : fehér, szürke, fekete
+zaj
+fehér : fehér, szürke, fekete
+biotechnológia
+fehér : fehér, szürke, fekete
+füst, festés, anyag, doboz, műanyag
+fehér : hófehér, fehér
+szakáll, paripa, köntös, homok, rózsaszirom
+
+
+fekete : fehér, szürke, fekete
+biotechnológia
+fekete : fehér, szürke, fekete
+gazdaság
+fekete : fehér, szürke, fekete
+galamb, festés, autó, felleg, fal
+fekete : fehér, barna, fekete, vörös
+törpe
+
+
+feletti : feletti, alatti
+korcsoport, fizetés, forgalom, euróárfolyam, négyzetméterár
+feletti : feletti, fölötti
+hatalom, befolyás, uralom, irányítás, felügyelet
+
+
+filozófiai : teológiai, filozófiai, bölcseleti
+mű, rendszer, tanulmány, kar, iskola
+filozófiai : filozofikus, filozófiai
+mélység, író, téma, gondolat
+
+
+finom : lágy, finom
+szellő, mosoly, mozdulat, zene, árnyalat
+finom : ízletes, finom
+bor, csemege, falat, kávé, halétel
+
+
+fontos : fontos, lényeges
+szabályozás, eltérés, változtatás
+fontos : kulcsfontosságú, fontos
+enzim, ágazat, tag, partner,
+
+
+formai : tartalmi, formai
+kifogás, hiba, kritérium, követelmény, hiányosság
+formai : formai, stiláris
+eszköz
+
+
+forró : forró, meleg, hideg
+időszak, nap, hónap, éghajlat, időjárás
+forró : forró, langyos
+kakaó
+
+
+fölötti : feletti, fölötti
+rendelkezés, őrködés, uralom, város, ítélkezés, öröm
+fölötti : körüli, fölötti
+csökkenés, fogyasztás, nézettség, áremelkedés
+
+
+hagyományos : hagyományos, klasszikus
+regény, színház, műveltség, festmény, opera
+hagyományos : hagyományos, tradicionális
+életmód, állattartás, szokás, népzene, konyha
+
+
+hideg : hideg, száraz
+ész
+hideg : meleg, hideg, hűvös
+áramlat, iroda, pince, szoba
+hideg : forró, meleg, hideg
+fürdő, tea, tej, leves
+
+
+hétköznapi : mindennapi, hétköznapi
+autózás, rutin, tevékenység, táplálék, szokás, 
+hétköznapi : köznapi, hétköznapi
+jelentés, kifejezés, név, értelem, fogalom
+
+
+híres : nevezetes, híres
+könyvtár, falu, mondat, kastély, műemlék  
+híres : világhírű, világhíres, híres, legendás
+sztár, regény, együttes, énekes, színész
+
+
+ideális : ideális, tökéletes
+célpont, otthon, szülő, társ, ajándék
+ideális : optimális, ideális
+távolság, testsúly, méret, mennyiség, hőméréséklet
+
+
+iszonyatos : óriási, hatalmas, iszonyatos
+összeg, felelősség, feladat, erőfeszítés, publicitás
+iszonyatos : borzalmas, iszonyatos, rettenetes
+állapot, kép, képsorozat, pillanatfelvétel
+
+
+jelentős : jelentős, csekély
+ügy, szabálytalanság, százalék, részlet 
+jelentős : számottevő, jelentős
+fesztivál, település, újdonság, ásványkincs
+
+
+jópofa : klassz, jópofa
+ember, lány, pasi, fickó, emberke
+jópofa : ötletes, jópofa
+kezdeményezés, játék, elnevezés, megoldás, megközelítés
